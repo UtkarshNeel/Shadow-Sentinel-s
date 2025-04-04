@@ -41,6 +41,6 @@ A modern web-based dashboard for managing an RFID-based voting system with real-
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/rfid-voting-system.git
+   git clone https://github.com/UtkarshNeel/rfid-voting-system.git
 
   
