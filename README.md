@@ -1,6 +1,6 @@
 # Secure RFID Voting System 🗳️
 
-![Project Preview](screenshot.png) <!-- Add a screenshot if available -->
+![Project Preview](Snapshot.png) <!-- Add a screenshot if available -->
 
 A modern web-based dashboard for managing an RFID-based voting system with real-time monitoring and secure vote casting capabilities.
 
